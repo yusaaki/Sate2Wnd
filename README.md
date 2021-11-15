@@ -33,5 +33,5 @@ keras|2.6.0
 matplotlib|3.4.2
 cartopy|0.20.0
 
-最后运行脚本即可，运行完成后将生成如下图片。
+最后运行脚本即可，运行完成后将生成如下图片：
 ![运行结果](https://raw.githubusercontent.com/yusaaki/Sate2Wnd/main/Figure_1.jpg)
