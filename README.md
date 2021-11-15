@@ -20,7 +20,7 @@ Converting satellite images to wind field using the pix2pix model, i.e., retriev
 ## 模型
 模型已上传至百度云。  
 链接: https://pan.baidu.com/s/1n_kRSMpepAKj76o9au8akw  提取码: j2zy  
-下载完成后，将模型路径填写到 main.py 中的 MODEL_PATH。  
+下载完成后，将模型路径依次填写到 main.py 中的 MODEL_PATH。  
 
 ## 运行
 ### 脚本依赖下边这些库，需要先安装
