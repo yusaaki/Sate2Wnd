@@ -23,7 +23,8 @@ Converting satellite images to wind field using the pix2pix model, i.e., retriev
 下载完成后，将模型路径填写到 main.py 中的 MODEL_PATH。  
 
 ## 运行
-### 脚本依赖下边这些库，需要先安装
+使用的Python版本为3.9.6
+### 脚本还依赖下边这些库，需要先安装
 库|参考版本
 ---|---
 gzip| -
@@ -33,5 +34,5 @@ keras|2.6.0
 matplotlib|3.4.2
 cartopy|0.20.0
 
-最后运行脚本即可，运行完成后将生成如下图片：
+最后运行脚本 main.py 即可，运行完成后将生成如下图片：
 ![运行结果](https://raw.githubusercontent.com/yusaaki/Sate2Wnd/main/Figure_1.jpg)
